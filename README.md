@@ -3,7 +3,9 @@ A simple 4 output lines (3V3, 5V, 9V, 12V) power supply unit powered by the main
 The 3V3 and 5V output lines togheter carry a current up to 500mA.
 The 9V and 12V output lines togheter carry a current up to 250mA.
 
-![overview](mopsu_built.jpg)
+![overview](mopsu_top.jpg)
+![overview](mopsu_front.jpg)
+![overview](mopsu_rear.jpg)
 
 
 ## Specifications
